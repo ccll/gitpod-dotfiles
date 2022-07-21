@@ -1,3 +1,3 @@
 alias dc='docker-compose'
 alias kc='kubectl'
-alias fa='faas-cli'
+alias fs='faas-cli'
